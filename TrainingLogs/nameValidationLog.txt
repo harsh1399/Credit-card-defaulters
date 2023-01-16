@@ -1,0 +1,30 @@
+2020-02-19/16:24:00		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:25:02		Invalid File Name!! File moved to Bad Raw Folder :: creditCardFraud_021119920_010222.xls
+2020-02-19/16:37:15		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:50:10		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/16:53:17		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/17:47:57		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:49:21		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2020-02-19/18:50:04		Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_021119920_010222.csv
+2023-01-15/16:35:55 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/17:23:29 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/17:26:20 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/17:28:36 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/17:43:47 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:10:11 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:10:37 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:15:44 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:20:56 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:26:27 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:42:14 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:49:58 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/18:54:28 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/19:01:21 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/19:11:48 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/19:28:47 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/19:40:38 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/20:10:29 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/20:14:21 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/20:21:59 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/21:06:04 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
+2023-01-15/21:32:36 		 Valid File name!! File moved to GoodRaw Folder :: creditCardFraud_28011960_120210.csv 
