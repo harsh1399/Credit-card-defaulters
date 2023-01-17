@@ -1,0 +1,56 @@
+2023-01-17/13:01:40 		 Start of Validation on files for prediction!! 
+2023-01-17/13:01:40 		 Raw Data Validation Complete!! 
+2023-01-17/13:01:40 		 Starting Data Transforamtion!! 
+2023-01-17/13:01:40 		 DataTransformation Completed!!! 
+2023-01-17/13:01:40 		 Creating Prediction_Database and tables on the basis of given schema!!! 
+2023-01-17/13:01:40 		 Table creation Completed!! 
+2023-01-17/13:01:40 		 Insertion of Data into Table started!!!! 
+2023-01-17/13:01:55 		 Insertion in Table completed!!! 
+2023-01-17/13:01:55 		 Deleting Good Data Folder!!! 
+2023-01-17/13:01:55 		 Good_Data folder deleted!!! 
+2023-01-17/13:01:55 		 Moving bad files to Archive and deleting Bad_Data folder!!! 
+2023-01-17/13:01:56 		 Bad files moved to archive!! Bad folder Deleted!! 
+2023-01-17/13:01:56 		 Validation Operation completed!! 
+2023-01-17/13:01:56 		 Extracting csv file from table 
+2023-01-17/13:01:56 		 Start of Prediction 
+2023-01-17/13:01:56 		 Entered the get_data method of the Data_Getter class 
+2023-01-17/13:01:56 		 Data Load Successful.Exited the get_data method of the Data_Getter class 
+2023-01-17/13:01:56 		 Entered the is_null_present method of the Preprocessor class 
+2023-01-17/13:01:56 		 Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class 
+2023-01-17/13:01:56 		 Entered the scale_numerical_columns method of the Preprocessor class 
+2023-01-17/13:01:56 		 scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class 
+2023-01-17/13:01:56 		 Entered the load_model method of the File_Operation class 
+2023-01-17/13:01:56 		 Model File KMeans loaded. Exited the load_model method of the Model_Finder class 
+2023-01-17/13:01:56 		 Entered the find_correct_model_file method of the File_Operation class 
+2023-01-17/13:01:56 		 Exited the find_correct_model_file method of the Model_Finder class. 
+2023-01-17/13:01:56 		 Entered the load_model method of the File_Operation class 
+2023-01-17/13:01:56 		 Model File NaiveBayes0 loaded. Exited the load_model method of the Model_Finder class 
+2023-01-17/13:01:56 		 End of Prediction 
+2023-01-17/13:05:34 		 Start of Validation on files for prediction!! 
+2023-01-17/13:05:34 		 Raw Data Validation Complete!! 
+2023-01-17/13:05:34 		 Starting Data Transforamtion!! 
+2023-01-17/13:05:34 		 DataTransformation Completed!!! 
+2023-01-17/13:05:34 		 Creating Prediction_Database and tables on the basis of given schema!!! 
+2023-01-17/13:05:34 		 Table creation Completed!! 
+2023-01-17/13:05:34 		 Insertion of Data into Table started!!!! 
+2023-01-17/13:05:41 		 Insertion in Table completed!!! 
+2023-01-17/13:05:41 		 Deleting Good Data Folder!!! 
+2023-01-17/13:05:41 		 Good_Data folder deleted!!! 
+2023-01-17/13:05:41 		 Moving bad files to Archive and deleting Bad_Data folder!!! 
+2023-01-17/13:05:41 		 Bad files moved to archive!! Bad folder Deleted!! 
+2023-01-17/13:05:41 		 Validation Operation completed!! 
+2023-01-17/13:05:41 		 Extracting csv file from table 
+2023-01-17/13:05:41 		 Start of Prediction 
+2023-01-17/13:05:41 		 Entered the get_data method of the Data_Getter class 
+2023-01-17/13:05:41 		 Data Load Successful.Exited the get_data method of the Data_Getter class 
+2023-01-17/13:05:41 		 Entered the is_null_present method of the Preprocessor class 
+2023-01-17/13:05:41 		 Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class 
+2023-01-17/13:05:41 		 Entered the scale_numerical_columns method of the Preprocessor class 
+2023-01-17/13:05:41 		 scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class 
+2023-01-17/13:05:41 		 Entered the load_model method of the File_Operation class 
+2023-01-17/13:05:41 		 Model File KMeans loaded. Exited the load_model method of the Model_Finder class 
+2023-01-17/13:05:41 		 Entered the find_correct_model_file method of the File_Operation class 
+2023-01-17/13:05:41 		 Exited the find_correct_model_file method of the Model_Finder class. 
+2023-01-17/13:05:41 		 Entered the load_model method of the File_Operation class 
+2023-01-17/13:05:41 		 Model File NaiveBayes0 loaded. Exited the load_model method of the Model_Finder class 
+2023-01-17/13:05:41 		 End of Prediction 
