@@ -87,10 +87,6 @@ pygam==0.8.0
 Pygments==2.11.2
 pyOpenSSL==22.0.0
 pyparsing==2.4.6
-PyQt5==5.12.3
-PyQt5_sip==4.19.18
-PyQtChart==5.12
-PyQtWebEngine==5.12.1
 pyrsistent==0.18.1
 PySocks==1.7.1
 python-dateutil==2.8.1
